@@ -19,4 +19,6 @@ This is a large heading.
 
 
 
-task 
+
+def my_function():
+  print("Hello from a function")
